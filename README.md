@@ -1,4 +1,4 @@
-# VSCode Reinforcement Learning Dev Container
+# VSCode Spinning Up in Deep RL Dev Container
 
 This repo contains simple .devcontainer configuration files to spin up faster in RL using [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/).
 It's been tested using [Docker](https://www.docker.com/) on [WLS2](https://docs.microsoft.com/en-us/windows/wsl/install-win10). 
